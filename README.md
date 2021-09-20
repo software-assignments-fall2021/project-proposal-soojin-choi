@@ -14,8 +14,6 @@ This app would be made for desktop or mobile.
 ### For whom?
 All in One Health aims to be useful to everyone of the general public but more specifically to patients who have medical conditions to keep track of. This app can keep track of data and even analyze that data with charts for those who don’t know how to easily keep track of their data (such as with excel charts) or don’t have the time to do so. An example, is those keeping track of their blood sugar everyday.
 
-For the general public, knowing medical information about oneself isn't always easy and usually people don't carry around the last time they had a regular checkup. This app can make it so that all that information is available for them.
-
 For medical professionals, this app can make it easy to see trends in a patients health easily, which aren’t easily found on a patients medical charts. This can make helping long term patients easier and much more meaningful.  Medical professionals would also have access to a patients basic health details without the delays of calling others to get the data.
 
 ### How?
