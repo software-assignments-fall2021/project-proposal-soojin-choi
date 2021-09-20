@@ -16,20 +16,22 @@ All in One Health aims to be useful to everyone of the general public but more s
 
 For medical professionals, this app can make it easy to see trends in a patients health easily, which aren’t easily found on a patients medical charts. This can make helping long term patients easier and much more meaningful.  Medical professionals would also have access to a patients basic health details without the delays of calling others to get the data.
 
+But in general, this app focuses on everyone to get more involved with their health and to make it easier for them to do so. 
+
 ### How?
 The app should be clean and easy to use but also adaptable. 
 The basic functions are:
 - Appointments and Alerts:
   - Keeping track of appointments, prescription refill times and daily tracking reminders (such as inputing the daily blood sugar after it is taken). 
   - Also there would be the option to have alerts. 
-- Medical history:  
+- Medical History:  
   - This is the users medical history. This can be adaptable to the patient, and have more or less data. 
   - The basic should be any medical or hospital visits with a summary of those visits.
   - Vaccination history 
   - Any tests and subsequent information (such as blood tests). 
     - These would be sorted by date , by default, and can be separated. 
     - This could have options to track any categories for ease of looking at, such as wanting to see the history of one’s cholesterol.  
-- User profile:
+- User Profile:
   - This will have the basic emergency information of the patient and any immediate concerns listed. For example, any allergies, or immediate health conditions.
   - There can also be a section for family health conditions which can be inputted manually or be linked to other users that are family. 
 This would be basic functionality but this design can be expanded to include more features. 
